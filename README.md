@@ -21,6 +21,7 @@
 - TeamCity
 - Bamboo
 - GitLab
+
 This image illustrates what the differnece between these services are. 
 ![Alt text](../Images/Other-automation-services.webp)
 ## git workflow 
