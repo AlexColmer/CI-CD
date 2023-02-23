@@ -23,7 +23,7 @@
 - GitLab
 
 This image illustrates what the differnece between these services are. 
-![Alt text](../Images/Other-automation-services.webp)
+![](../Images/Other-automation-services.webp)
 ## git workflow 
 - Git workflow is a recomendation for how to use Git to accomplish work in a consistent and porductive manner. They encourage Developers and DevOps teams to leverage Git effectively and consistently.
 ## Jenkins work flow
