@@ -1,5 +1,5 @@
 # CI/CD
-# What is CI/CD CDE ![Alt text](../Images/CI-CD.png)
+# What is CI/CD CDE ![](Picture2.png)
 - It stands for continous integration,  continuous delivery and eployment 
 - It is considered the back bone of DevOps. Most companies now are releasing softwear with the help of CI/CD practices. 
 ## Continous Integration 
@@ -23,7 +23,7 @@
 - GitLab
 
 This image illustrates what the differnece between these services are. 
-![](../Images/Other-automation-services.webp)
+![](Other-automation-services.webp) 
 ## git workflow 
 - Git workflow is a recomendation for how to use Git to accomplish work in a consistent and porductive manner. They encourage Developers and DevOps teams to leverage Git effectively and consistently.
 ## Jenkins work flow
@@ -34,7 +34,7 @@ This image illustrates what the differnece between these services are.
 - Run tests
 - deploy changes 
 - monitor the job.
-## SDLC workflow ![Alt text](../Images/SDLC-WORKflow.png)
+## SDLC workflow ![](SDLC-WORKflow.png)
 - Planning 
 - Analysis 
 - Design 
