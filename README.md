@@ -12,7 +12,7 @@
 ## examples of when CI/CD CDE is used 
 - Services like amazon, netflix, facebook all use this pipline as they need there services to be constantly running and able to perform updates in the background. 
 ## What is Jenkins 
-- Jenkins is an open source automation server in whihc the centrle build and CI processes take place. It is java program with packages for windows, macOS and linux. 
+- Jenkins is an open source automation server in which the central build and CI processes take place. It is java program with packages for windows, macOS and linux. 
 ## Why jenkins?
 - It is such a good program to use as it is ope source and has an amazing range of plugins avaliable. Jenkins supports building, deployment and automatiuon for SD (softwear developer) projects. Has easy instilation simple UI (user interface). 
 
